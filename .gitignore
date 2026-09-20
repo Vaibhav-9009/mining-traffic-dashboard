@@ -1,0 +1,42 @@
+# Frontend dependencies
+frontend/node_modules/
+
+# Backend dependencies
+backend/node_modules/
+
+# Frontend build
+frontend/dist/
+frontend/build/
+
+# Backend build
+backend/target/
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+frontend/build/
+
+# Backend build
+backend/target/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,2182 @@
+[
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 16,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.88",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.90",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 15,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 47,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 19,
+      "confidence": "0.90",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 20,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 20,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 22,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 42,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 24,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 44,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 24,
+      "confidence": "0.88",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.99",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9020",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9021",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9022",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9023",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9024",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9025",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 22,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 24,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 19,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9020",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 38,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9021",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9022",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.88",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 47,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 39,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9020",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 42,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9021",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9022",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 22,
+      "confidence": "0.90",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9023",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9024",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9025",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9026",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9027",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9028",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 47,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9029",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9030",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9031",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 18,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 18,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 22,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 47,
+      "confidence": "0.90",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 24,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 15,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 42,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.88",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.88",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 41,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 22,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9020",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9021",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9022",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 18,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9023",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9024",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.88",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 20,
+      "confidence": "0.92",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 39,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 24,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 18,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 43,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 18,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 21,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 39,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 18,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 24,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 17,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.98",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 19,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 18,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 39,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 16,
+      "confidence": "0.90",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.91",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 39,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 23,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 23,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 42,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9017",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9018",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 16,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9019",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9020",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.89",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9021",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.96",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9022",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 15,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9023",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9024",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 46,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9025",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.92",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9026",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 16,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9027",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.88",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9028",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9029",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9030",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 16,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ],
+  [
+    {
+      "trackingId": "TRK-9001",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9002",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 21,
+      "confidence": "0.90",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9003",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 17,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9004",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 45,
+      "confidence": "0.94",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9005",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.93",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9006",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 18,
+      "confidence": "0.95",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9007",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 19,
+      "confidence": "0.89",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9008",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 40,
+      "confidence": "0.98",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9009",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 15,
+      "confidence": "0.91",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9010",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 15,
+      "confidence": "0.93",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9011",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.97",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9012",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "NORTHBOUND",
+      "speed": 47,
+      "confidence": "0.97",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9013",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "SOUTHBOUND",
+      "speed": 20,
+      "confidence": "0.95",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9014",
+      "vehicleType": "SERVICE_VEHICLE",
+      "zone": "Z-03",
+      "direction": "NORTHBOUND",
+      "speed": 19,
+      "confidence": "0.99",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9015",
+      "vehicleType": "HEAVY_TRUCK",
+      "zone": "Z-01",
+      "direction": "SOUTHBOUND",
+      "speed": 22,
+      "confidence": "0.94",
+      "source": "Lidar-01",
+      "status": "TRACKED"
+    },
+    {
+      "trackingId": "TRK-9016",
+      "vehicleType": "LIGHT_VEHICLE",
+      "zone": "Z-02",
+      "direction": "NORTHBOUND",
+      "speed": 44,
+      "confidence": "0.96",
+      "source": "Camera-01",
+      "status": "TRACKED"
+    }
+  ]
+]

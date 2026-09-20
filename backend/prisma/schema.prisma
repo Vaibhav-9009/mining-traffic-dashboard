@@ -1,0 +1,57 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Vehicle {
+  id          String   @id @default(uuid())
+  trackingId  String   @unique
+  vehicleType String
+  zoneId      String
+  direction   String
+  speed       Float?
+  confidence  Float
+  source      String
+  status      String
+  timestamp   DateTime @default(now())
+  
+  zone        Zone     @relation(fields: [zoneId], references: [id])
+}
+
+model Zone {
+  id                String    @id
+  name              String
+  state             String
+  trafficDirection  String
+  barrierId         String?
+  
+  vehicles          Vehicle[]
+  alerts            Alert[]
+}
+
+model Barrier {
+  id                  String   @id
+  zoneId              String
+  state               String
+  lastStateChange     DateTime @default(now())
+  communicationStatus String
+  lastUpdate          DateTime @default(now())
+}
+
+model Alert {
+  id            String   @id
+  type          String
+  severity      String
+  zoneId        String
+  relatedEntity String
+  timestamp     DateTime @default(now())
+  status        String
+  source        String
+  description   String
+  
+  zone          Zone     @relation(fields: [zoneId], references: [id])
+}
